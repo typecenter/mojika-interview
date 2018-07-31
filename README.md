@@ -7,4 +7,4 @@
 3. 最終原稿は、[type.center](http://type.center/) に掲載します。
 
 ## ライセンス
-現時点では[BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)とします。
+現時点では[BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)とします。
