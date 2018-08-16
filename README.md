@@ -6,5 +6,9 @@
 2. 元原稿に対し修正、編集、校正など手を加え、原稿チェックを進めていきます。
 3. 最終原稿は、[type.center](http://type.center/) に掲載します。
 
+## 当プロジェクトの作業フロー
+当プロジェクトの作業フローは、[こちら](https://github.com/typecenter/mojika-interview/wiki/github-flow)をご覧ください
+
+
 ## ライセンス
 現時点では[BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)とします。
