@@ -48,8 +48,11 @@
 
 ──今回の『文字渦』でも、すさまじいゲラがTwitterにアップされましたね。
 
+
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">円城塔さんの『文字渦』収録作「誤字」のルビは、新潮掲載時から単行本化に際して、文字組と禁則処理が変わるため細かな修正がなされたのですが、円城さんがプログラム処理した修正版データをもとに、校閲者が手作業でゲラに反映させました。これがそのゲラの一部です。 <a href="https://t.co/Uzbojp9W3t">pic.twitter.com/Uzbojp9W3t</a></p>&mdash; 新潮社出版部文芸 (@Shincho_Bungei) <a href="https://twitter.com/Shincho_Bungei/status/1027542174118772736?ref_src=twsrc%5Etfw">2018年8月9日</a></blockquote>
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 円城：そうなんです。やっぱりまだ紙なんです（苦笑）。
 
